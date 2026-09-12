@@ -132,11 +132,6 @@ Through this project, I worked with:
 
 **Mohammed Muneeb**
 
-Data Science Intern | Data Analyst | Data Scientist | Machine Learning
+Data Science | Data Analyst | Data Scientist | Machine Learning | Deep Learning | NLP | Gen Ai
 
-GitHub: [Muneeb2739](https://github.com/Muneeb2739)
 
-```
-
-**One thing:** replace `YOUR_GITHUB_REPOSITORY_URL` with your actual GitHub repository URL before committing.
-```
